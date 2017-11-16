@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OAC</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on OAC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2017 09:50:40 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OAC in Space Hack</title>
+      <link>http://localhost:1313/post/oac_spacehack/</link>
+      <pubDate>Thu, 16 Nov 2017 09:50:40 +0200</pubDate>
+      
+      <guid>http://localhost:1313/post/oac_spacehack/</guid>
+      <description>OAC takes part of the ESA Space Hack event in Helsinki this weekend. Meet us there and see how we build the best computing platform for lunar surface missions!</description>
+    </item>
+    
+    <item>
+      <title>OAC_spacehack</title>
+      <link>http://localhost:1313/mainpage/</link>
+      <pubDate>Thu, 16 Nov 2017 09:50:40 +0200</pubDate>
+      
+      <guid>http://localhost:1313/mainpage/</guid>
+      <description>Hello World! Welcome to OAC website mainpage.</description>
+    </item>
+    
+    <item>
+      <title>Thermal Analysis</title>
+      <link>http://localhost:1313/post/oac_unit_thermal/</link>
+      <pubDate>Fri, 10 Nov 2017 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/post/oac_unit_thermal/</guid>
+      <description>The OAC Computer, Radio and Battery unit is capable of operating over the full lunar night (375 hours without solar irradiation), without a need for hybernation mode. This is possible, with the help of OAC developed thermal design, combining structural rigidity and delicate thermal control of the system.
+ Thermal Analysis of the OAC unit   </description>
+    </item>
+    
+    <item>
+      <title>OAC Computer, Radio and Battery Unit</title>
+      <link>http://localhost:1313/post/computer_radio_battery_unit/</link>
+      <pubDate>Wed, 01 Nov 2017 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/post/computer_radio_battery_unit/</guid>
+      <description>The technology for lunar missions have existed since the 1960s. OAC is using high-quality commercial-of-the-shelf (COTS) components to build affordable, high-performance space systems. The OAC Computer, Radio and Battery unit is capable of operating over the full lunar night, without a need for hybernation mode.
+ OAC Unit   </description>
+    </item>
+    
+    <item>
+      <title>OAC Attends ESA ESTEC Lunar Event</title>
+      <link>http://localhost:1313/post/oac_estec/</link>
+      <pubDate>Tue, 19 Sep 2017 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/post/oac_estec/</guid>
+      <description>OAC contributed to the ESA ESTEC Deep Space Gateway and Lunar Exploration -industry days on 18th and 19th SEP 2017. It&amp;rsquo;s great to see that this time the Europeans are leading the path for permanent lunar base.
+ Inside super cool ESA rover lab!   </description>
+    </item>
+    
+  </channel>
+</rss>

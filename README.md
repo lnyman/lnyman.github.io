@@ -1,2 +1,0 @@
-# lnyman.github.io
-www
