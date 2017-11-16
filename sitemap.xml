@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://oacspace.com/about/</loc>
+    <lastmod>2017-11-16T09:50:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://oacspace.com/post/oac_spacehack/</loc>
+    <lastmod>2017-11-16T09:50:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://oacspace.com/mainpage/</loc>
+    <lastmod>2017-11-16T09:50:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://oacspace.com/post/oac_unit_thermal/</loc>
+    <lastmod>2017-11-10T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://oacspace.com/post/computer_radio_battery_unit/</loc>
+    <lastmod>2017-11-01T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://oacspace.com/post/oac_estec/</loc>
+    <lastmod>2017-09-19T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://oacspace.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://oacspace.com/</loc>
+    <lastmod>2017-11-16T09:50:40+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://oacspace.com/post/</loc>
+    <lastmod>2017-11-16T09:50:40+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://oacspace.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
