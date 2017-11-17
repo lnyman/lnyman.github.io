@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://oacspace.com/post/oac_esa_space_hack/</loc>
+    <lastmod>2017-11-17T14:12:01+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://oacspace.com/about/</loc>
     <lastmod>2017-11-16T09:50:40+02:00</lastmod>
   </url>
@@ -39,13 +44,13 @@
   
   <url>
     <loc>http://oacspace.com/</loc>
-    <lastmod>2017-11-16T09:50:40+02:00</lastmod>
+    <lastmod>2017-11-17T14:12:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://oacspace.com/post/</loc>
-    <lastmod>2017-11-16T09:50:40+02:00</lastmod>
+    <lastmod>2017-11-17T14:12:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
